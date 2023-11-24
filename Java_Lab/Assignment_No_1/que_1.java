@@ -1,3 +1,6 @@
+/* Write a Java Program to accept a number from command prompt and generate
+   multiplication table of number. Accept number using BufferedReader class.
+ */
 import java.io.*;
 public class que_1{
     public static void main(String args[]) throws IOException{
