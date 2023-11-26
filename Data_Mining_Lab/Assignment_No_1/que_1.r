@@ -1,3 +1,6 @@
+# Write a R program to add , multi , sub, div of two vectors of integer type 
+# (vector length should be minimum 4)
+
 vector1 = seq(10,40,length.out=4)
 vector2 = c(20,10,40,40)
 print("Original vector : ")
