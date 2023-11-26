@@ -1,3 +1,5 @@
+# Write python program to convert categories values in numeric format 
+# for given  dataset.
 import pandas as pd
 
 info = {'gender': ['male', 'female', 'male', 'female', 'male'],
