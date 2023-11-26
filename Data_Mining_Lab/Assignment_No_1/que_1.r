@@ -11,3 +11,11 @@ sub = vector1 - vector2
 cat("Subtraction of two vector is : ", sub, "\n")
 div = vector1 / vector2 
 cat("Division of two vector is : ", div, "\n")
+
+# [1] "Original vector : "
+# [1] 10 20 30 40
+# [1] 20 10 40 40
+# Sum of two vectors is :  30 30 70 80 
+# Multiplication of two vector is :  200 200 1200 1600 
+# Subtraction of two vector is :  -10 10 -10 0 
+# Division of two vector is :  0.5 2 0.75 1 
