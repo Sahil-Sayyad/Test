@@ -1,4 +1,5 @@
-/*  Write a java program to Reverse a number . Accept number using command line argument. */
+/*  Write a java program to Reverse a number . 
+    Accept number using command line argument. */
 
 public class que__2{
     public static void main(String args[]){

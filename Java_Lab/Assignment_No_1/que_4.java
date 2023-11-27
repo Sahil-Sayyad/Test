@@ -1,5 +1,9 @@
-/*Define a class Mynumber having one private integer data member.
- write default constructor to initialize it to a value. write methods isNegative , isPositive, isOdd, isEven .Use command libne arguments to pass a value to the object and perform the above tests.
+/* Define a class Mynumber having one private integer data member.
+   write default constructor to initialize it to a 0.
+   Another constructor to initalize it to a value. 
+   write methods isNegative , isPositive, isOdd, isEven .
+   Use command libne arguments to pass a value to the object and perform 
+   the above tests.
 */
 class Mynumber{
     private int num;
