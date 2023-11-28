@@ -21,7 +21,7 @@ class Circle implements Operation {
     }
 
     public void area() {
-        double area_c = 2 * PI * radius * radius;
+        double area_c =  PI * radius * radius;
         System.out.println("Area of Circle is : " + area_c);
     }
 
